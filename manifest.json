@@ -1,0 +1,16 @@
+{
+  "name": "TANDAN DESA",
+  "short_name": "DesaApp",
+  "description": "Aplikasi Desa untuk data kependudukan, kesehatan, dan lainnya",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0b3d91",
+  "theme_color": "#0b3d91",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
